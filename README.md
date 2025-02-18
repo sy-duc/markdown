@@ -15,6 +15,8 @@
 
 [7. Bảng](#bang) 
 
+[8. Icon](#icon) 
+
 <a name="tieude"></a>
 ## 1. Tạo tiêu đề
 > # Tiêu đề 1 (h1)  
@@ -77,3 +79,75 @@ Header được tách với content bằng dấu gạch ngang -
 |       A1      |       B1      |   C1  |
 |       A2      |       B2      |   C2  |
 |       A3      |       B3      |   C3  |
+
+<a name="icon"></a>
+##  8. Icon
+Trong file .md (Markdown), các icon thường dùng thường được biểu diễn bằng emoji hoặc biểu tượng Unicode.
+
+Dưới đây là một số loại phổ biến:
+
+✅ Trạng thái công việc
+
+✔️  - Hoàn thành
+
+❌ - Bị lỗi, thất bại
+
+⏳ - Đang chờ xử lý
+
+🚀 - Đã triển khai, khởi động
+
+🔥 - Quan trọng, khẩn cấp
+
+⚠️ - Cảnh báo
+
+📌 - Ghim, quan trọng
+
+📍 - Vị trí, điểm dừng
+
+🔖 - Đánh dấu
+
+📂 - Thư mục
+
+📁 - Thư mục mở
+
+📄 - Tài liệu
+
+🗂 - Danh mục, thư mục
+
+📝 - Ghi chú
+
+⚙️ - Cài đặt
+
+🛠 - Công cụ
+
+🔧 - Cờ lê, chỉnh sửa
+
+🔨 - Búa, xây dựng
+
+🖥 - Máy tính
+
+💡 - Ý tưởng
+
+🧐 - Kiểm tra kỹ
+
+📢 - Thông báo
+
+👀 - Cần xem xét
+
+📝 - Lưu ý
+
+🎯 - Mục tiêu
+
+✅ - Hoàn thành
+
+🏁 - Kết thúc
+
+📊 - Biểu đồ, tiến độ
+
+🏷 - Tag
+
+🔖 - Bookmark
+
+🔗 - Liên kết
+
+🌐 - Web, internet
